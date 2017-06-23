@@ -1,0 +1,29 @@
+div {
+	background-color: #d7d7bf;
+	width: 500px;
+	height: 200px;
+	padding: 10px;
+}
+h1 {
+	color: #663300;
+}
+h3 {
+	color: #996633;
+}
+a {
+	color: green;
+}
+.two {
+	width: 500px;
+	height: 80px;
+	border-style: dotted;
+}
+.formula {
+	font-size: 30px; 
+}
+.bb {
+	color: blue;
+}
+.pp{
+	color: red;
+}
